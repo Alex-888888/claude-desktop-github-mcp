@@ -1,0 +1,16 @@
+# Secrets — never commit a real token
+*.env
+.env
+.env.*
+*token*
+*secret*
+*.pat
+claude_desktop_config.local.json
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp

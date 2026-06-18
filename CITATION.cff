@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this setup guide, you may cite it as below."
+title: "Claude Desktop ↔ GitHub (MCP)"
+abstract: >-
+  A practical Windows setup guide for connecting Claude Desktop to GitHub via
+  the official, self-hosted GitHub MCP server (Docker + Personal Access Token),
+  including honest troubleshooting of the dead ends encountered.
+authors:
+  - given-names: Alexandre
+    alias: Alex-888888
+license: Apache-2.0
+repository-code: "https://github.com/Alex-888888/claude-desktop-github-mcp"
+keywords:
+  - claude
+  - mcp
+  - github
+  - docker
+  - windows
+date-released: 2026-06-18
